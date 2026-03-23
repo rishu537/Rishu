@@ -1,11 +1,11 @@
 s = input("Enter a String: ")
 
-set = set()
+seen = set()
 result = ""
 
 for char in s:
-    if char not in set:
-        set.add(char)
+    if char not in seen:
+        seen.add(char)
         result += char
 
 print(result)
