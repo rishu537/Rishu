@@ -9,7 +9,7 @@ for char in s:
         count[char] = 1
 
 max_char = ""
-max_count = 0 
+max_count = 0
 
 for char in count:
     if count[char] > max_count:
@@ -17,4 +17,3 @@ for char in count:
         max_char = char
 
 print(max_char, "=", max_count)
-    
