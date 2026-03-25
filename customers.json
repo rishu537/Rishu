@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "contact": {
+      "email": "sarah.johnson@email.com",
+      "mobile": "+91-9876543210"
+    },
+    "address": {
+      "address1": "45, MG Road",
+      "address2": "Near City Mall",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600001"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "contact": {
+      "email": "michael.chen@email.com",
+      "mobile": "+91-9876543211"
+    },
+    "address": {
+      "address1": "23, Anna Salai",
+      "address2": "Opposite Metro Station",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600002"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Priya Sharma",
+    "contact": {
+      "email": "priya.sharma@email.com",
+      "mobile": "+91-9876543212"
+    },
+    "address": {
+      "address1": "12, Brigade Road",
+      "address2": "Apartment 3B",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560001"
+    }
+  },
+  {
+    "id": 4,
+    "name": "David Martinez",
+    "contact": {
+      "email": "david.martinez@email.com",
+      "mobile": "+91-9876543213"
+    },
+    "address": {
+      "address1": "78, MG Road",
+      "address2": "Koramangala Layout",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560034"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Emily Watson",
+    "contact": {
+      "email": "emily.watson@email.com",
+      "mobile": "+91-9876543214"
+    },
+    "address": {
+      "address1": "56, Marine Drive",
+      "address2": "Sea View Apartments",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400002"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Rajesh Kumar",
+    "contact": {
+      "email": "rajesh.kumar@email.com",
+      "mobile": "+91-9876543215"
+    },
+    "address": {
+      "address1": "34, Linking Road",
+      "address2": "Bandra West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400050"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Jessica Taylor",
+    "contact": {
+      "email": "jessica.taylor@email.com",
+      "mobile": "+91-9876543216"
+    },
+    "address": {
+      "address1": "89, Park Street",
+      "address2": "Near Park Plaza",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "pincode": "700016"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Ahmed Hassan",
+    "contact": {
+      "email": "ahmed.hassan@email.com",
+      "mobile": "+91-9876543217"
+    },
+    "address": {
+      "address1": "67, Salt Lake Sector V",
+      "address2": "IT Park Building",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "pincode": "700091"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Lisa Anderson",
+    "contact": {
+      "email": "lisa.anderson@email.com",
+      "mobile": "+91-9876543218"
+    },
+    "address": {
+      "address1": "101, Residency Road",
+      "address2": "Richmond Town",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "560025"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Carlos Rodriguez",
+    "contact": {
+      "email": "carlos.rodriguez@email.com",
+      "mobile": "+91-9876543219"
+    },
+    "address": {
+      "address1": "22, T Nagar Main Road",
+      "address2": "Pondy Bazaar Area",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600017"
+    }
+  }
+]
