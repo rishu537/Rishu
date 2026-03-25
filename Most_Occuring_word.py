@@ -1,8 +1,8 @@
-with open("/Users/rishu/CodePractice/python-practice/sample.txt", 'r') as f:
+with open("/Users/rishu/CodePractice/python-practice/sample.txt", "r") as f:
     lines = f.readlines()
 
-    count = {}
-    
+count = {}
+
 for line in lines:
     words = line.split()
     for word in words:
@@ -11,12 +11,12 @@ for line in lines:
         else:
             count[word] = 1
 
-max_word = ""
+max_char = ""
 max_count = 0
 
 for word in count:
     if count[word] > max_count:
         max_count = count[word]
-        max_word = word
+        max_char = word
 
-print(max_word, max_count)
+print(max_char, max_count)
