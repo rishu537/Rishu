@@ -1,4 +1,4 @@
-with open("sample.txt", "r") as f:
+with open("/Users/rishu/CodePractice/python-practice/sample.txt", "r") as f:
     data = f.readlines()
 
     fifth_lines = data[4]
@@ -6,5 +6,3 @@ with open("sample.txt", "r") as f:
     words = fifth_lines.split()
 
     print(words[4])
-
-

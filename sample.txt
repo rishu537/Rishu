@@ -1,5 +1,5 @@
-Hello my name is Rishu
-I am learning Python
-File handling is easy
-Python is very powerful
-I love coding every single day
+Rishu
+Ayush
+Hitesh
+Mukul
+Rishabh
