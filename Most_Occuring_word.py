@@ -11,12 +11,12 @@ for line in lines:
         else:
             count[word] = 1
 
-max_char = ""
+max_word = ""
 max_count = 0
 
-for word in count:
+for line in lines:
     if count[word] > max_count:
         max_count = count[word]
-        max_char = word
+        max_word = word
 
-print(max_char, max_count)
+print(max_word, max_count)
