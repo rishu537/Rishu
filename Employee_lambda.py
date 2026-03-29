@@ -12,4 +12,4 @@ salary_hike = list(map(lambda x:{**x, "salary" : x["salary"] * 1.2}, department)
 Sort_salary = list(sorted(salary_hike, key = lambda x:x["salary"], reverse = True))
 
 for i in Sort_salary:
- print(i)
+    print(i)
