@@ -1,0 +1,4 @@
+2026-03-30 03:54:57,388 - INFO - Dividing 10 by 2
+2026-03-30 03:54:57,388 - INFO - result : 5.0
+2026-03-30 03:54:57,388 - INFO - Dividing 5 by 0
+2026-03-30 03:54:57,388 - ERROR - Cannot divide by zero
